@@ -74,7 +74,7 @@ I build **web applications, AI-powered products, and connected systems**.
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 PatternFlow
+### 🧠 450DSA Solver
 
 **AI-Powered DSA Learning Platform**
 
@@ -201,7 +201,7 @@ That's the intersection I'm currently most interested in exploring.
 
 <div align="center">
 
-| 🧩 DSA | 🧠 PatternFlow | 📊 DevTrack | 🔌 QuickEat |
+| 🧩 DSA | 🧠 450DSA Solver | 📊 DevTrack | 🔌 QuickEat |
 |:---:|:---:|:---:|:---:|
 | **300+** | **250+ users** | **100+ users** | **15+ APIs** |
 
